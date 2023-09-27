@@ -1,1 +1,4 @@
-
+En este trabajo se puso a prueba el uso de Typescript, HTML Bootstrap. 
+Se logro implementar una la creación de una página HTML básica utilizando los elementos HTML y etiquetas básicas que se han visto en clase, 
+consumir una api pública mediante fetch API de JavaScript nativo, y escribir todo el código necesario en TypeScript para luego compilarlo a 
+su código JavaScript correspondiente.
